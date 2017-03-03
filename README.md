@@ -48,4 +48,4 @@ pwd
 ps -al  
 ```
   
-!(https://github.com/sarodp/markdown-quick-guide/blob/master/2017-03-03-104431_602x586_scrot.png)  
+![รูปฉัน](https://github.com/sarodp/markdown-quick-guide/blob/master/2017-03-03-104431_602x586_scrot.png)  
