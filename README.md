@@ -47,6 +47,8 @@ ls -l
 pwd  
 ps -al  
 ```
-  
+เครื่องหมายตกใจ ก้ามปู ชื่อรูป ก้ามปู (ลิงค์รูป)  
+รูปแรก  
 ![รูปฉัน1] (https://github.com/sarodp/markdown-quick-guide/blob/master/myphoto1.png)  
-![รูปฉัน2] (https://github.com/sarodp/markdown-quick-guide/blob/master/myphoto1.png)  
+รูปที่สอง  
+![รูปฉัน2] (https://github.com/sarodp/markdown-quick-guide/blob/master/myphoto2.png)  
