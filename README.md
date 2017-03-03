@@ -1,6 +1,8 @@
 # markdown-quick-guide  
 ## ตย.วิธีเขียนไฟล์ .md ใน github  
-ที่มา: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet  
+ที่มา:    
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet  
+https://github.com/raspberrypilearning/creating-resources/blob/master/markdown.md  
   
 คลิกปุ่ม Raw เพื่อดูตย.วิธีเขียน 
   
